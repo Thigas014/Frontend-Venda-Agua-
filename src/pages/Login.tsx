@@ -67,10 +67,6 @@ export function Login() {
             {carregando ? 'Entrando...' : 'Entrar'}
           </button>
         </form>
-
-        <p className="text-center text-xs text-slate-400 mt-6">
-          Acesso padrão inicial: admin@vendaagua.com / admin123
-        </p>
       </div>
     </div>
   )
